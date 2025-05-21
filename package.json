@@ -1,0 +1,16 @@
+{
+  "name": "plaza-las-americas-frontend/front-end",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "react-router-dom": "^6.x.x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
